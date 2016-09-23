@@ -17,13 +17,8 @@
     "lib": ["es2015", "dom"]
   },
   "files": [
-    "ng2-translate.ts",
-    "./src/translate.pipe.ts",
-    "./src/translate.service.ts",
-    "./src/translate.parser.ts",
-    "tests/translate.parser.spec.ts",
-    "tests/translate.service.spec.ts",
-    "tests/translate.pipe.spec.ts"
+    "ng2-lodash.ts",
+    "./src/lodash.pipe.ts"
   ],
   "exclude": [
     "node_modules",

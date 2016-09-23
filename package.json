@@ -1,14 +1,12 @@
 {
   "name": "ng2-lodash",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "lodash pipe for Angular2",
-  "main": "index.js",
-  "typings": "./index.d.ts",
+  "main": "ng2-lodash.js",
+  "typings": "./ng2-lodash.d.ts",
   "files": [
-    "index.js",
-    "index.js.map",
-    "index.d.ts",
-    "src/index.ts",
+    "ng2-lodash.ts",
+    "src/lodash.pipe.ts",
     "CHANGELOG.md"
   ],
   "scripts": {
